@@ -83,7 +83,7 @@ The implementation uses Python and integrates mandatory library code from the bo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/london-underground-journey-planner.git
+   git clone https://github.com/hilyas6/london-underground-journey-planner.git
    cd london-underground-journey-planner
    ```
 2. Install dependencies:
